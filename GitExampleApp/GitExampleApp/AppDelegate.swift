@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  GitExampleApp
 //
-//  Created by Daniel BR on 03/09/22.
 //
 
 import UIKit
