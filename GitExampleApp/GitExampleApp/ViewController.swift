@@ -7,16 +7,13 @@
 //MARK: - L I B R A R I E S
 import UIKit
 
-
-//MARK: - C L A S S
 class ViewController: UIViewController {
 
     
     //MARK: - L I F E · C Y C L E
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        //Agrega linea
+        // Saludos - Oscar Vera
     }
 
 
